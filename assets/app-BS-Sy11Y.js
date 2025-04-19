@@ -1,0 +1,1 @@
+import{N as r}from"./app-CxqGeHsb.js";import{N as a}from"./app-Ncl-Sitd.js";import{o as t,c as o,w as s,b as e}from"./app-BYx064nO.js";const i={__name:"@menu",setup(c){return(n,m)=>(t(),o(r,null,{tabs:s(()=>[e(a,{href:".",value:"index",name:"我的流量包"}),e(a,{separator:""}),e(a,{href:".buy",value:"buy",name:"购买流量包","action-cart":""})]),_:1}))}};export{i as _};

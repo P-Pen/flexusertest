@@ -1,0 +1,1 @@
+import{T as e}from"./app-BXiLqtxA.js";import{o,c as t,w as l,j as n,n as r}from"./app-BYx064nO.js";const f={__name:"NotFoundInfo",props:{disableSpacing:{type:Boolean,default:!1}},setup(a){return(s,c)=>(o(),t(e,{class:r({"mt-4":!a.disableSpacing})},{default:l(()=>[n(s.$slots,"default")]),_:3},8,["class"]))}};export{f as _};

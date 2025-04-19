@@ -1,0 +1,1 @@
+import{T as e}from"./app-DR284fT9.js";import{o,c as r,w as a,j as s}from"./app-BYx064nO.js";const l={__name:"SubmitButton",setup(n){return(t,u)=>(o(),r(e,{label:"保存",type:"submit",ref:"rootRef"},{default:a(()=>[s(t.$slots,"default")]),_:3},512))}};export{l as _};

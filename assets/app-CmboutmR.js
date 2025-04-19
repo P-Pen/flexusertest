@@ -1,0 +1,1 @@
+import{o as e,g as s,h as t}from"./app-BYx064nO.js";const o={key:0,class:"green"},a={key:1,class:"red"},_={__name:"LabelOn",props:{vIsOn:Boolean},setup(n){return(c,r)=>(e(),s("div",null,[n.vIsOn?(e(),s("span",o,"已启用")):t("",!0),n.vIsOn?t("",!0):(e(),s("span",a,"已停用"))]))}};export{_};

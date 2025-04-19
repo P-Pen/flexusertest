@@ -1,0 +1,1 @@
+import{i as t,c as e}from"./app-DISTCiac.js";import{o,g as n}from"./app-BYx064nO.js";function c(){t(this)}const s={class:"comment"},p={__name:"index",setup(a){return e(new c),(r,i)=>(o(),n("p",s,"此功能暂未开放，敬请期待。"))}};export{p as default};

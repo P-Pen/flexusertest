@@ -1,0 +1,1 @@
+import{T as t}from"./app-DR284fT9.js";import{_ as o,o as s,c}from"./app-BYx064nO.js";const n={__name:"PlusButton",setup(e){return(p,r)=>(s(),c(t,{type:"button",icon:"pi pi-plus",rounded:"",secondary:"",class:"plus-button"}))}},_=o(n,[["__scopeId","data-v-8440b752"]]);export{_ as P};

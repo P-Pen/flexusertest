@@ -1,0 +1,1 @@
+import{_ as t,o,g as s,j as n}from"./app-BYx064nO.js";const a={},c={class:"ui table selectable definition"};function r(e,l){return o(),s("table",c,[n(e.$slots,"default")])}const _=t(a,[["render",r]]);export{_ as D};

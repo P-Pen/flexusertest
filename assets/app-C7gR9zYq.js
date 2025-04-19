@@ -1,0 +1,1 @@
+import{W as e}from"./app-DQhYsbJs.js";import{o as r,c as a,w as t,f as o}from"./app-BYx064nO.js";const u={__name:"ServerFeatureRequired",setup(s){return(c,_)=>(r(),a(e,null,{default:t(()=>[o("当前网站绑定的套餐或当前用户未开通此功能。")]),_:1}))}};export{u as _};
